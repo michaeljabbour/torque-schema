@@ -8,6 +8,7 @@
     "url": "https://github.com/torque-framework/torque-schema.git"
   },
   "main": "index.js",
+  "types": "index.d.ts",
   "description": "Type validators and contract checking for Torque. Zero dependencies.",
   "scripts": {
     "test": "node --test test/*.test.js"
